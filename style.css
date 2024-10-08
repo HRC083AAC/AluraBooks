@@ -7,3 +7,8 @@ body {
 h1 {
     background-color: white;
 }
+:root {
+  --cor-de-fundo: #ebecee;
+  --branco: #ffffff;
+  --laranja: #eb9b00;
+}
