@@ -48,3 +48,35 @@ body {
   --fonte-principal: "Poppins";
   --azul: #002f52;
 }
+.descrição__titulo-livro {
+  color: var(--azul-degrade);
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0.5em 0;
+}
+.descrição__texto {
+  font-size: 14px;
+}
+.botões__ancora {
+  background-color: var(--laranja);
+  padding: 1em 2.2em;
+  color: var(--branco);
+  font-weight: 700;
+  text-decoration: none;
+}.botões__item {
+  margin: 0 0.5em;
+}
+.botões__item {
+  margin: 0 0.5em;
+}
+.classe:hover {
+}
+.botao {
+  background-color: var(--azul);
+  color: white;
+}
+
+.botao:hover {
+  background-color: var(--azul-claro);
+  color: var(--azul);
+}
