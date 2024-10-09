@@ -69,8 +69,6 @@ body {
 .botões__item {
   margin: 0 0.5em;
 }
-.classe:hover {
-}
 .botao {
   background-color: var(--azul);
   color: white;
