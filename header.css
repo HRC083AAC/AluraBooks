@@ -65,3 +65,19 @@
 .opções {
   display: none;
 }
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .cabeçalho__menu-hamburguer {
+    display: none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  /* Código omitido */
+
+  .opções_botão {
+    display: none;
+  }
+
+  /* Código omitido */
+}
